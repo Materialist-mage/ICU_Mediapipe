@@ -9,6 +9,7 @@ import pygame
 from config import CONFIG
 from modules.ui import ControlPanel
 
+
 if __name__ == '__main__':
     try:
         # 确保备用音频文件存在
